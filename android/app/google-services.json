@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "139941584497",
+    "project_id": "extra-market-cf2cf",
+    "storage_bucket": "extra-market-cf2cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139941584497:android:95a5ca56dfd44df3a745d0",
+        "android_client_info": {
+          "package_name": "com.example.extra_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139941584497-0rvoodu9j68ho36dpccmhomo8jmpvg0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.extra_market",
+            "certificate_hash": "e751b493ddb9a3307060ac36559ac04a4e606c0b"
+          }
+        },
+        {
+          "client_id": "139941584497-nggd3hjrjrfs3oj7c1itcn3j0novgec2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdxKD0lhqTaGzLZjqz-ck2dSwBOxiV4Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139941584497-nggd3hjrjrfs3oj7c1itcn3j0novgec2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
