@@ -247,7 +247,7 @@ class testhome extends State<home> {
                                               Navigator.of(context).push(MaterialPageRoute(builder: (context)=>desc(index:index )));
                                             },
                                             child: ListTile(
-                                              title: Text('facture : ${index+1}'),
+                                              title: Container(child: Text('facture : ${index+1}')),
                                               subtitle: Column(
                                                 children: [
                                                   SizedBox(height: 5),
