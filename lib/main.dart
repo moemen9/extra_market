@@ -69,7 +69,7 @@ class _MyAppState extends State<MyApp> {
       backgroundColor: Colors.white,
       body: Container(
         child: new Column(children: <Widget>[
-          SizedBox(height: 240,),
+          SizedBox(height: 200,),
           new Image.asset(
             'images/tt.gif',
             fit: BoxFit.cover,

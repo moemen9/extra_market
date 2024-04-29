@@ -63,7 +63,7 @@ class _LoginFormState extends State<LoginForm> {
             Container(
                 child:Column(
                   children: <Widget>[
-                    Image.asset('images/TT.png',width:250),
+                    Image.asset('images/TT.png',width:180,),
                   ],)
             ),
             Container(
