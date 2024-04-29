@@ -43,7 +43,7 @@ class logint extends State<login>{
       onWillPop: Exit,
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'BAYADHI STE',
+        title: 'I.I.T',
         home: Scaffold(
 
           backgroundColor: Colors.deepOrange
